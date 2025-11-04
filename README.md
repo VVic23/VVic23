@@ -38,7 +38,7 @@
 ### 🌟 Featured Projects
 
 #### 🏛️ [Civics Practice](https://github.com/VVic23/civics-practice)
-> A modern web app to help users prepare for the **2008 U.S. Naturalization Civics Test** through interactive quizzes and progress tracking.
+> A modern web app to help users prepare for the **2008 U.S. Naturalization Civics Test** through interactive quizzes.
 
 - ⚙️ **Tech Stack:** React, Vite, Supabase, Tailwind CSS  
 - 💡 **Highlights:**  
