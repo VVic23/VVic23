@@ -49,7 +49,7 @@
 ---
 
 #### 💸 [Squarify](https://github.com/mihirtakalkar/Squarify)
-> A group expense tracker with **location-based memory tracking**, enabling users to manage shared costs and visualize past events.
+> A group expense tracker with **location info**, enabling users to manage shared costs and visualize past events.
 
 - ⚙️ **Tech Stack:** Next.js, MongoDB Atlas, Mongoose, Tailwind CSS, Shadcn/UI  
 - 🔐 **Authentication:** Google OAuth  
