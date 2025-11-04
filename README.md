@@ -1,11 +1,11 @@
 <!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Vicram+Vijayakumar+👋;Full-Stack+Developer;Building+scalable+and+human-centered+software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Vicram+Vijayakumar+👋)](https://git.io/typing-svg)
 
 ---
 
-<h3 align="center">💻 Software Engineer | Full Stack Developer
+<h3 align="center">💻 Software Engineer | Full Stack Developer </h3>
 <p style="padding-top: 10px;" align="center">
-  <a href="https://github.com/VVic23"><img src="https://img.shields.io/github/followers/VVic23?label=Follow&style=social"></a>
+  <a href="https://github.com/VVic23"><img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?logo=github"></a>
   <a href="https://www.linkedin.com/in/vicram-vijayakumar"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
 </p>
 
@@ -16,25 +16,22 @@
 - 🎓 **B.A. in Computer Science and Data Science** | Passionate about full-stack development
 - 🚀 Exploring **Next.js**, **MERN stack**, and **Supabase** to build scalable web apps  
 - 💡 I enjoy turning ideas into reality — from civic education tools to expense tracking platforms  
-- 🧩 Currently learning **distributed systems** and **data-driven web architecture**  
+- 🧩 Currently learning about **operating systems** and **data inference**  
 - ⚡ Fun fact: I can debug faster with music playing 🎧  
 
 ---
 
-### ⚙️ Tech Stack
+### ⚡ Languages and Frameworks
 
-| Category | Tools & Frameworks |
-|-----------|-------------------|
-| **Languages** | Python, JavaScript, TypeScript, C++, Java |
-| **Frontend** | React, Next.js, Vite |
-| **Styling** | Tailwind CSS, Shadcn/UI, Radix UI |
-| **Backend** | Node.js, Express, Supabase, Mongoose |
-| **Databases** | MongoDB Atlas, PostgreSQL |
-| **Tools & Cloud** | Git, GitHub, VS Code, Vercel, OAuth, Docker |
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,python,nodejs,mongodb,postgres,git,github,vscode,docker" />
-</p>
+| Category | Tools |
+|-----------|-------|
+| **Programming Languages** | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| **Styling** | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Shadcn](https://img.shields.io/badge/Shadcn/UI-18181B?style=for-the-badge&logo=radixui&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Full Stack Tools** | ![Clerk](https://img.shields.io/badge/Clerk-1F2937?style=for-the-badge&logo=clerk&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+| **Machine Learning Libraries** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
 
 ---
 
@@ -64,27 +61,6 @@
 
 ---
 
-### 🏆 Achievements
-
-- 🥇 Built and deployed **two full-stack apps** integrating authentication, databases, and real-time user interaction  
-- 🌐 Contributor to **open-source UI component projects**  
-- 🧠 Continuously improving my skills in **backend systems** and **AI-assisted web tools**  
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VVic23&show_icons=true&theme=default&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=VVic23&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VVic23&theme=github-compact&hide_border=true" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="center">
@@ -93,5 +69,3 @@
 </p>
 
 ---
-
-<p align="center">✨ “Building systems that scale and ideas that inspire.” ✨</p>
