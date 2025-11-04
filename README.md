@@ -42,7 +42,7 @@
 
 - ⚙️ **Tech Stack:** React, Vite, Supabase, Tailwind CSS  
 - 💡 **Highlights:**  
-  - Developed an engaging quiz interface with randomized question sets  
+  - Developed an engaging quiz interface with randomized question sets through Vercel 
   - Integrated Supabase backend to hold the question bank
   - Designed responsive UI with Tailwind for smooth experience  
 
@@ -57,7 +57,6 @@
   - Architected backend schemas for users, groups, and event data  
   - Implemented secure OAuth login and session handling  
   - Enhanced user experience with custom Radix UI components  
-  - Deployed using Vercel for seamless scalability  
 
 ---
 
