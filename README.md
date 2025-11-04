@@ -43,8 +43,8 @@
 - ⚙️ **Tech Stack:** React, Vite, Supabase, Tailwind CSS  
 - 💡 **Highlights:**  
   - Developed an engaging quiz interface with randomized question sets  
-  - Integrated Supabase backend for data persistence and user tracking  
-  - Designed responsive UI with Tailwind for smooth mobile experience  
+  - Integrated Supabase backend to hold the question bank
+  - Designed responsive UI with Tailwind for smooth experience  
 
 ---
 
