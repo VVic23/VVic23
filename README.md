@@ -1,5 +1,5 @@
 <!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Vicram+Vijayakumar+👋;Full-Stack+Developer+%7C+AI+Enthusiast;Building+scalable+and+human-centered+software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Vicram+Vijayakumar+👋;Full-Stack+Developer;Building+scalable+and+human-centered+software)](https://git.io/typing-svg)
 
 ---
 
