@@ -14,7 +14,7 @@
 ### 🧠 About Me
 
 - 🎓 **B.A. in Computer Science and Data Science** | Passionate about full-stack development
-- 🚀 Exploring **Next.js**, **MERN stack**, and **Supabase** to build scalable web apps  
+- 🚀 Exploring **Next.js** and **Supabase** to build scalable web apps  
 - 💡 I enjoy turning ideas into reality — from civic education tools to expense tracking platforms  
 - 🧩 Currently learning about **operating systems** and **data inference**  
 - ⚡ Fun fact: I can debug faster with music playing 🎧  
