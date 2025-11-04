@@ -4,7 +4,7 @@
 ---
 
 <h3 align="center">💻 Software Engineer | Full Stack Developer
-<p align="center">
+<p style="padding-top: 10px;" align="center">
   <a href="https://github.com/VVic23"><img src="https://img.shields.io/github/followers/VVic23?label=Follow&style=social"></a>
   <a href="https://www.linkedin.com/in/vicram-vijayakumar"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
 </p>
